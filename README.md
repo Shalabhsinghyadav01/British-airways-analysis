@@ -65,7 +65,7 @@ To set up and run this project on your local machine, follow these steps:
 
 You can directly access the interactive dashboard using the following link:
 
-[British Airways Reviews Interactive Dashboard](https://your-dashboard-link.com](https://public.tableau.com/app/profile/shalabh.yadav/viz/british_airway_review/britishairwayreview))
+[British Airways Reviews Interactive Dashboard](https://public.tableau.com/app/profile/shalabh.yadav/viz/british_airway_review/britishairwayreview)
 
 
 ## Contributing
