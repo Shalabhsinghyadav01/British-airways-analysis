@@ -10,6 +10,7 @@ This project features an interactive dashboard created using Tableau, which visu
 - [Setup Instructions](#setup-instructions)
 - [Dashboard Features](#dashboard-features)
 - [Usage](#usage)
+- [Dashboard Access](#dashboard-access)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -59,6 +60,12 @@ To set up and run this project on your local machine, follow these steps:
    - Analyze the visualizations to understand customer feedback trends.
    - Identify areas of improvement based on negative reviews.
    - Leverage positive feedback to reinforce successful strategies.
+     
+## Dashboard Access
+
+You can directly access the interactive dashboard using the following link:
+
+[British Airways Reviews Interactive Dashboard]([https://your-dashboard-link.com](https://public.tableau.com/app/profile/shalabh.yadav/viz/british_airway_review/britishairwayreview))
 
 
 ## Contributing
